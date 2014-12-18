@@ -1,0 +1,4 @@
+services:
+#    cubsters_front.example:
+#        class: Cubsters\FrontBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,4 @@
+cubsters_front:
+    resource: "@CubstersFrontBundle/Resources/config/routing.yml"
+    prefix:   /
+
